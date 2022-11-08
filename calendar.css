@@ -89,3 +89,9 @@ time.icon:hover, time.icon:focus
   80%  { transform: rotate(6deg)  skewY(-2deg); }
   100% { transform: rotate(0deg)  skewY(0deg); }
 }
+
+a {
+  color: navy;
+  text-decoration: none;
+  #text-transform: uppercase;
+}
